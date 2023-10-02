@@ -20,5 +20,6 @@ public class ch3_14 {
                 }
             }
         }
+        sc.close();
     }
 }
