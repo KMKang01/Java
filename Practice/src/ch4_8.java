@@ -54,5 +54,6 @@ public class ch4_8 {
                     System.out.println(name + "은/는 전화번호부에 없는 이름입니다.");
             }
         }
+        sc.close();
     }
 }

@@ -32,5 +32,6 @@ public class ch4_10 {
             if (input.equals("그만")) break;
             System.out.println(Dictionary.meaning(input));
         }
+        sc.close();
     }
 }
